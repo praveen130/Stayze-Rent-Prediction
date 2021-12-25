@@ -8,3 +8,10 @@
 
 PRICE BASED ON ROOM TYPE:
 
+
+
+![download1](https://user-images.githubusercontent.com/73115703/147379322-3c51cb62-6a4d-4fc1-b056-71c0264dc3f7.png)
+
+
+
+MEAN PRICE BASED ON NEIGHBOURHOOD GROUP AND ROOM TYPE:
