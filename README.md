@@ -15,3 +15,6 @@ PRICE BASED ON ROOM TYPE:
 
 
 MEAN PRICE BASED ON NEIGHBOURHOOD GROUP AND ROOM TYPE:
+
+
+![download2](https://user-images.githubusercontent.com/73115703/147379383-5acfbcca-37af-4cde-a0b2-ad1333c0e0bc.png)
